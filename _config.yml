@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: Type on Strap # blog's title
   avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  favicon: <link id="page_favicon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAXUlEQVQ4T2NkoBAwgvQr3zvxnxRz7ipZgPWBANwAZz0XoszYe2kPA20MIMp6LIrICgNkc8gyABYGoMAfGAMo9gLFBmBNB6REI/UNIMV2dLVkRSPIEJg34LmKXFcAAJu4OsFA+6XKAAAAAElFTkSuQmCC" rel="icon" type="image/x-icon">
   gravatar: # Email MD5 hash
 
   # Header and footer text
